@@ -1,0 +1,110 @@
+<mxfile host="" modified="2020-06-28T15:17:46.821Z" agent="5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Code/1.46.1 Chrome/78.0.3904.130 Electron/7.3.1 Safari/537.36" etag="_6eE5v98cZdYUI4jzWAz" version="13.1.3">
+    <diagram id="6hGFLwfOUW9BJ-s0fimq" name="Page-1">
+        <mxGraphModel dx="1378" dy="802" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="9" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="2" target="3" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="2" value="&lt;h1&gt;기획&lt;/h1&gt;&lt;p&gt;꿈에서 보았다...&amp;nbsp;&lt;/p&gt;&lt;p&gt;하늘이의 컴퓨터에서 실행되는 글리치 프로그램을...&lt;/p&gt;&lt;p&gt;그래서 만들고싶었다...&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="215" y="10" width="310" height="120" as="geometry"/>
+                </mxCell>
+                <mxCell id="6" value="전역지원" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="3" target="4" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="7" value="윈도우 한정" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="3" target="5" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="8" value="시스템 인테그레이션 가능" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="3" target="5" edge="1">
+                    <mxGeometry x="-0.6104" relative="1" as="geometry">
+                        <mxPoint as="offset"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="3" value="뭘로만들지?" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="300" y="160" width="140" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="12" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="4" target="10" edge="1">
+                    <mxGeometry relative="1" as="geometry">
+                        <mxPoint x="310" y="350" as="targetPoint"/>
+                    </mxGeometry>
+                </mxCell>
+                <mxCell id="4" value="c++ 실행파일" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="180" y="240" width="120" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="11" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="5" target="10" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="5" value="windows 화면보호기" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                    <mxGeometry x="424" y="240" width="156" height="50" as="geometry"/>
+                </mxCell>
+                <mxCell id="15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="10" target="13" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="10" value="&lt;h1&gt;2차 생각&lt;/h1&gt;&lt;p&gt;개발해 봤자 실제로 사용할 것 같지는 않다.. 그렇다.. 차라리 여러 시스템에서 운영 가능한 능력을 기르기 위해서 윈도우 리눅스 둘다 지원 가능한 프로그램을 만들어 보는것도 나쁘지 않다고 생각한다.&lt;/p&gt;&lt;p&gt;그렇다면! 결정했다.&lt;/p&gt;&lt;p&gt;c++ 로 개발하자!&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="276" y="370" width="205" height="190" as="geometry"/>
+                </mxCell>
+                <mxCell id="16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="13" target="14" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="13" value="&lt;h1&gt;1차&lt;/h1&gt;&lt;p&gt;c++ 과 opengl 을 사용하여 개발하자&lt;/p&gt;&lt;p&gt;c++ 과 리눅스 빌드 시스템을 배울 수 있는 기회가 될 것 이다.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="275" y="610" width="206" height="110" as="geometry"/>
+                </mxCell>
+                <mxCell id="14" value="&lt;h1&gt;2차&lt;/h1&gt;&lt;p&gt;윈도우 인테그레이션 가능한 프로그램을 만들자.&lt;/p&gt;&lt;p&gt;윈도우 어플리케이션을 만들 수 있는 능력을 개발 할 수 있을 것 이다.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="275" y="770" width="206" height="120" as="geometry"/>
+                </mxCell>
+                <mxCell id="21" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="17" target="20" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="17" value="&lt;h1&gt;Glitch 디자인 참조&lt;/h1&gt;&lt;p&gt;구글 검색&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://www.google.com/search?q=glitch&amp;amp;sxsrf=ALeKk024ALrQkTpdfZueLaYEkDkI7GsHrw:1593020541662&amp;amp;source=lnms&amp;amp;tbm=isch&amp;amp;sa=X&amp;amp;ved=2ahUKEwjgrYX8_5rqAhWFNaYKHUbSC7MQ_AUoAXoECBEQAw&amp;amp;biw=1248&amp;amp;bih=755&quot;&gt;https://www.google.com/search?q=glitch&amp;amp;sxsrf=ALeKk024ALrQkTpdfZueLaYEkDkI7GsHrw:1593020541662&amp;amp;source=lnms&amp;amp;tbm=isch&amp;amp;sa=X&amp;amp;ved=2ahUKEwjgrYX8_5rqAhWFNaYKHUbSC7MQ_AUoAXoECBEQAw&amp;amp;biw=1248&amp;amp;bih=755&lt;/a&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;깃허브 참조&lt;/p&gt;&lt;p&gt;&lt;a href=&quot;https://github.com/ykob/glsl-glitch&quot;&gt;https://github.com/ykob/glsl-glitch&lt;/a&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;(시연)&amp;nbsp;&lt;/p&gt;&lt;a href=&quot;https://ykob.github.io/sketch-threejs/sketch/glitch.html&quot;&gt;https://ykob.github.io/sketch-threejs/sketch/glitch.html&lt;/a&gt;&lt;p&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="1400" y="20" width="450" height="210" as="geometry"/>
+                </mxCell>
+                <mxCell id="18" value="&lt;h1&gt;윈도우 화면보호 프로그램 개발 가이드&lt;/h1&gt;&lt;p&gt;&lt;a href=&quot;http://www.cityintherain.com/howtoscr.html&quot;&gt;http://www.cityintherain.com/howtoscr.html&lt;/a&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="1930" y="440" width="420" height="70" as="geometry"/>
+                </mxCell>
+                <mxCell id="19" value="&lt;h1&gt;화면보호기 수정 방법&lt;/h1&gt;&lt;p&gt;&lt;a href=&quot;https://community.adobe.com/t5/photoshop/how-to-create-a-windows-10-screensaver/td-p/9345073?page=1&quot;&gt;https://community.adobe.com/t5/photoshop/how-to-create-a-windows-10-screensaver/td-p/9345073?page=1&lt;/a&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="2430" y="440" width="400" height="90" as="geometry"/>
+                </mxCell>
+                <mxCell id="23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="20" target="22" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="25" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="20" target="24" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="28" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="20" target="18" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="29" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="20" target="19" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="35" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="20" target="32">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="20" value="&lt;h1&gt;알아봐야 할 것들&lt;/h1&gt;&lt;p&gt;다음은 검색하면서 알아봐야 할 것들을 모아놓은 것이다.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="1410" y="300" width="190" height="80" as="geometry"/>
+                </mxCell>
+                <mxCell id="27" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="22" target="26" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="31" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="22" target="30" edge="1">
+                    <mxGeometry relative="1" as="geometry"/>
+                </mxCell>
+                <mxCell id="22" value="&lt;h1&gt;Youtube Glitch effect cllection&lt;/h1&gt;&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/watch?v=N0OPOsN3kA8&amp;amp;list=PLVdLN4Yhy71d3Nr3XXQYPsIN8m4vIej7F&quot;&gt;https://www.youtube.com/watch?v=N0OPOsN3kA8&amp;amp;list=PLVdLN4Yhy71d3Nr3XXQYPsIN8m4vIej7F&lt;/a&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;이곳은 무료 glitch 템플릿을 모아놓은 리스트이다. 작업할때 이 영상에서 어떠한 종류의 glitch 가 있는지 참고하여 작업하자&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="1200" y="440" width="360" height="120" as="geometry"/>
+                </mxCell>
+                <mxCell id="24" value="&lt;h1&gt;Datamosh&lt;/h1&gt;&lt;p&gt;&lt;a href=&quot;https://www.youtube.com/channel/UC4c3o1B7PvPoy2fKTTWEaag&quot;&gt;https://www.youtube.com/channel/UC4c3o1B7PvPoy2fKTTWEaag&lt;/a&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;내가 생각하는 glitch 효과의 꽃인 비디오 datamosh 이다. 이 효과는 반드시 구현할 생각이다.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="1610" y="440" width="190" height="120" as="geometry"/>
+                </mxCell>
+                <mxCell id="26" value="&lt;h1&gt;fractal noise&lt;/h1&gt;&lt;div&gt;&lt;a href=&quot;https://www.google.com/search?q=fractal+noise&quot;&gt;https://www.google.com/search?q=fractal+noise&lt;/a&gt;&lt;br&gt;&lt;/div&gt;&lt;p&gt;&lt;span&gt;노이즈의 한 종류 이지만 이 노이즈를 사용해 다양한 연출을 할 수 있다. 이 뿐만 아니라 다양한 noise 들을 알아두면 구현에 도움이 될 것이다.&lt;/span&gt;&lt;br&gt;&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="980" y="640" width="270" height="120" as="geometry"/>
+                </mxCell>
+                <mxCell id="30" value="&lt;h1&gt;VHS&lt;/h1&gt;&lt;p&gt;glitch 하면 빠질 수 없는것이 바로 이 VHS glitch 이다. 일반적인 glitch 는 대부분이 이 카테고리에 해당한다.&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" parent="1" vertex="1">
+                    <mxGeometry x="1310" y="640" width="190" height="120" as="geometry"/>
+                </mxCell>
+                <mxCell id="32" value="&lt;h1&gt;bad signal&lt;/h1&gt;&lt;p&gt;&lt;a href=&quot;https://www.google.com/search?q=bad+signal&quot;&gt;https://www.google.com/search?q=bad+signal&lt;/a&gt;&lt;br&gt;&lt;/p&gt;&lt;p&gt;나쁜 신호 라는 뜻의 이 검색어는 꾀 괜찮은 느낌의 이미지를 권해주고 있다. bad signal 이 극적이고 디지탈 적인 재난 상황을 나타내기도 하니 연출에있어서 glitch 표현이 많이 포함된 것 같다. (아니면 내 구글검색 알고리즘이...)&lt;/p&gt;" style="text;html=1;strokeColor=none;fillColor=none;spacing=5;spacingTop=-20;whiteSpace=wrap;overflow=hidden;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="820" y="440" width="260" height="150" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
